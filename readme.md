@@ -1,2 +1,2 @@
-# Clase 8 - Tareas
-Es un CRUD
+# Clase 10 - Tareas
+App finalizada 
